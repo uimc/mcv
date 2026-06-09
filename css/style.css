@@ -56,9 +56,9 @@
 }
 :root[data-theme="7"] {
   color-scheme: dark;
-  --background: #11111A;
-  --text: #6aca88;
-  --text2: #6aca88;
+  --background: #121a11;
+  --text: #85ca6a;
+  --text2: #85ca6a;
 }
 body {
   font-family: "Elms Sans", sans-serif;
