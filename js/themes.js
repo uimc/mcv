@@ -1,14 +1,14 @@
 (function () {
   const root = document.documentElement;
-  const MAX_THEME = 7;
+  const MAX_THEME = 8;
 
   const legacyThemes = {
-    light: "2",
-    dark: "6",
+    light: "3",
+    dark: "5",
   };
 
   function getDefaultTheme() {
-    return window.matchMedia("(prefers-color-scheme: dark)").matches ? "6" : "2";
+    return window.matchMedia("(prefers-color-scheme: dark)").matches ? "5" : "3";
   }
 
   function normalizeTheme(theme) {

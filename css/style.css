@@ -16,31 +16,31 @@
 :root {
   --text: #33333A;
   --text2: #33333A;
-  --background: #FFFFFF;
+  --background: #f8f8f8;
 }
 :root[data-theme="1"] {
-  color-scheme: light;
-  --background: #FFFFFF;
-  --text: #33333A;
-  --text2: #33333A;
+  color-scheme: dark;
+  --background: #2B0071;
+  --text: #ff616b;
+  --text2: #ff616b;
 }
 :root[data-theme="2"] {
-  color-scheme: light;
-  --background: #CCCCCF;
-  --text: #36363E;
-  --text2: #36363E;
+  color-scheme: dark;
+  --background: #11111A;
+  --text: #DDDDDD;
+  --text2: #DDDDDD;
 }
 :root[data-theme="3"] {
-  color-scheme: light;
-  --background: #95ABC0;
-  --text: #2B303B;
-  --text2: #2B303B;
-}
-:root[data-theme="4"] {
   color-scheme: dark;
-  --background: #44444A;
-  --text: #B4B4B7;
-  --text2: #B4B4B7;
+  --background: #af4900;
+  --text: #FCFAA6;
+  --text2: #FCFAA6;
+}
+:root[data-theme="4"] { /* root */
+  color-scheme: light;
+  --background: #f8f8f8;
+  --text: #33333A;
+  --text2: #33333A;
 }
 :root[data-theme="5"] {
   color-scheme: light;
@@ -50,15 +50,21 @@
 }
 :root[data-theme="6"] {
   color-scheme: dark;
-  --background: #11111A;
-  --text: #DDDDDD;
-  --text2: #DDDDDD;
+  --background: #4E1D4C;
+  --text: #E5AA70;
+  --text2: #E5AA70;
 }
 :root[data-theme="7"] {
   color-scheme: dark;
   --background: #121a11;
   --text: #85ca6a;
   --text2: #85ca6a;
+}
+:root[data-theme="8"] {
+  color-scheme: light;
+  --background: #95ABC0;
+  --text: #2B303B;
+  --text2: #2B303B;
 }
 body {
   font-family: "Elms Sans", sans-serif;
