@@ -21,8 +21,8 @@
 :root[data-theme="1"] {
   color-scheme: dark;
   --background: #008082;
-  --text: #FF7F50;
-  --text2: #FF7F50;
+  --text: #ffea2a;
+  --text2: #ffea2a;
 }
 :root[data-theme="2"] {
   color-scheme: dark;
@@ -62,7 +62,7 @@
 }
 :root[data-theme="8"] {
   color-scheme: light;
-  --background: #95ABC0;
+  --background: #b2d5f5;
   --text: #2B303B;
   --text2: #2B303B;
 }
