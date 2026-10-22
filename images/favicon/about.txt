@@ -1,6 +1,6 @@
-This favicon was generated using the following font:
+This favicon was generated using the following graphics from Twitter Twemoji:
 
-- Font Title: Permanent Marker
-- Font Author: Copyright (c) 2010 by Font Diner, Inc. All rights reserved.
-- Font Source: http://fonts.gstatic.com/s/permanentmarker/v16/Fh4uPib9Iyv2ucM6pGQMWimMp004HaqIfrT5nlk.ttf
-- Font License: Apache License, version 2.0 (http://www.apache.org/licenses/LICENSE-2.0.html))
+- Graphics Title: 1f4bd.svg
+- Graphics Author: Copyright 2020 Twitter, Inc and other contributors (https://github.com/twitter/twemoji)
+- Graphics Source: https://github.com/twitter/twemoji/blob/v14.0.2/assets/svg/1f4bd.svg
+- Graphics License: CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
